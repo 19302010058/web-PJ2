@@ -1,0 +1,86 @@
+.file {
+    position: relative;
+    display: block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 0.3704vh 0.625vw;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 1.8519vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10.4167vw;
+    text-align: center;
+    margin-top: 0.9259vh;
+}
+.file input {
+    position: absolute;
+    font-size: 100px;
+    right: 0;
+    top: 0;
+    opacity: 0;
+}
+.file:hover {
+    background: #AADFFD;
+    border-color: #78C3F3;
+    color: #004974;
+    text-decoration: none;
+}
+#imgPre {
+    width: 16.6667vw;
+    height: 22.2222vh;
+    display: block;
+    margin-top: 0.9259vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #87bff2;
+}
+#section-up-2{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.0417vw;
+    padding-right: 1.0417vw;
+    padding-top: 1.8519vh;
+    padding-bottom: 1.8519vh;
+    border-style:solid;
+    border-width: 1px;
+    border-color: #f6f6f6;
+    border-radius: 0.5em;
+    background-color: #87bff2;
+}
+input {
+    width: 100%;
+}
+#submit-up-1{
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div-up-1{
+    display: block;
+    margin-bottom: 1.8519vh;
+}
+#section-up-1{
+    display: block;
+    margin-bottom: 1.8519vh;
+}
+#div-up-1{
+    border-width: 1px;
+    border-style: none;
+    border-radius: 0.5em;
+    border-color: #7e8c8d;
+    background-color: #7e8c8d;
+    padding: 0.9259vh 0.5208vw;
+}
+#section-up-3{
+    background-image: url("../../images/去旅行/World-Tourism-Day.jpg");
+    background-size: cover;
+}

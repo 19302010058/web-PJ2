@@ -1,0 +1,63 @@
+figure{
+    display: block;
+    border-style: solid;
+    border-color: #7e8c8d;
+    border-width: 1px;
+    border-radius: 0.5em;
+    padding: 1.8519vh 1.5625vw;
+    background-color:#90bbd2;
+}
+.div-mc-2{
+    display: inline;
+    vertical-align: top;
+    height: 13.8889vh;
+    float: right;
+    width: 1300px;
+}
+.div-mc-3{
+    display: inline;
+}
+.img-mc-1{
+    border-width: 1px;
+    border-style: none;
+    border-color: white;
+    border-radius: 0.5em;
+    width: 170px;
+    height: 170px;
+}
+.span-mc-1{
+    display: block;
+    font-size: 1.3021vw;
+    font-family: "Apple Color Emoji", serif;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background-color: #6ebac6;
+    border-style: none;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 0.5em;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+#p-mc-1{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #7e8c8d;
+    border-radius: 0.5em;
+    background-color: #7e8c8d;
+    margin-top: 0.9259vh;
+    margin-bottom: 0.9259vh;
+    padding: 0.463vh 0.2604vw;
+}
+.div-mc-4{
+    float: right;
+}
+.svg{
+    position: relative;
+    left: 98%;
+}
+#div-mc-1{
+    display: block;
+    text-align: center;
+}

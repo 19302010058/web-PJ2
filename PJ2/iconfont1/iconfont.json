@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8084550",
+      "name": "登出账号/退出",
+      "font_class": "tuichu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8094177",
+      "name": "登出账号",
+      "font_class": "dengchuzhanghao",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}

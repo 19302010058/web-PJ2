@@ -1,0 +1,62 @@
+section{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #66a7f6;
+    border-radius: 0.5em;
+    width: 18%;/*180*/
+    background-color: #66a7f6;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;/*40*/;
+    padding-top: 20px;
+}
+#div-L-1{
+    margin-bottom: 1.8519vh;/*20*/
+    text-align: center;
+    font-size: larger;
+}
+#div-L-2{
+    width: 160px;/*165*/
+    margin-left: auto;
+    margin-right: auto;
+}
+.span-L-1{
+    display: block;
+    margin-top:0.9259vh ;/*10*/
+    margin-bottom: 0.9259vh;
+}
+#bt-L-1{
+    margin-top: 1.8519vh;
+    width: 8.3854vw;
+    background-color: #3e6dff;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #3e6dff;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bt-L-1:hover{
+    background-color: #87bff2;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #87bff2;
+}
+#bt-L-1:active{
+    background-color: blue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+}
+input {
+    display: block;
+    width: 160px;
+    margin-bottom: 20px;
+}
+body{
+    background-image: url("../../images/去旅行/去旅行2.jpg");
+    background-size: cover;
+}
+footer{
+    position: relative;
+    top: 30%;
+}

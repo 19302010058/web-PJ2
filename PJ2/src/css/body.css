@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.042vm;/*20*/
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+}

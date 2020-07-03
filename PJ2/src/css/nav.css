@@ -1,0 +1,186 @@
+.a1{
+    margin-left: 2.0833vw;/*40*/
+    margin-right: 2.0833vw;
+    border-style: none;
+    border-color: #3e6dff;
+    border-width: 1px;
+    background-color:#3e6dff;
+    padding-bottom: 0.463vh;/*5*/
+    padding-top: 0.463vh;
+    padding-left: 1.0417vw;/*20*/
+    padding-right: 1.0417vw;
+    border-radius: 0.1em;
+    text-decoration: none;
+    color: black;
+}
+.ul1{
+    display: inline;
+    margin-left: 2.0833vw;/*40*/
+    background-color: #3e6dff;
+    float: right;
+    margin-right: 0.2604vw;/*10*/
+}
+.div1{
+    display: inline;
+}
+#spanHome{
+    margin-right: 2.0833vw;/*40*/
+    border-style: none;
+    border-color: #3e6dff;
+    border-width: 1px;
+    background-color: white;
+    padding-bottom: 0.463vh;/*5*/
+    padding-top: 0.463vh;
+    padding-left: 1.0417vw;/*20*/
+    padding-right: 1.0417vw;
+    border-radius: 0.1em;
+}
+nav{
+    display: block;
+    background-color: #3e6dff;
+    padding: 1.8519vh 1.0417vw;/*20*/
+    font-size: 1.5625vw;
+    margin-bottom: 0.463vh;/*5*/
+    border-width:1px ;
+    border-color: #3e6dff;
+    border-style: none;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    height: 3.5rem;
+}
+.option1{
+    font-size: 1.1vw;/*1.5625*/
+}
+.a1:link{
+    background-color:#3e6dff;
+}
+.a1:hover{
+    background-color:white;
+    text-decoration: none;
+}
+
+.a2{
+    margin-right: 2.0833vw;/*40*/
+    border-style: none;
+    border-color: #3e6dff;
+    border-width: 1px;
+    background-color: #3e6dff;
+    padding-bottom: 0.463vh;/*5*/
+    padding-top: 0.463vh;
+    padding-left: 1.0417vw;/*20*/
+    padding-right: 1.0417vw;
+    border-radius: 0.1em;
+    color: black;
+    text-decoration: none;
+}
+.a2:hover{
+    background-color: white;
+    text-decoration: none;
+}
+#spanBrowsePage{
+    margin-right: 2.0833vw;/*40*/
+    margin-left: 2.0833vw;
+    border-style: none;
+    border-color: #3e6dff;
+    border-width: 1px;
+    background-color: white;
+    padding-bottom: 0.463vh;/*5*/
+    padding-top: 0.463vh;
+    padding-left: 1.0417vw;/*20*/
+    padding-right: 1.0417vw;
+    border-radius: 0.1em;
+}
+#spanSearchPage{
+    margin-right: 2.0833vw;/*40*/
+    margin-left: 2.0833vw;
+    border-style: none;
+    border-color: #3e6dff;
+    border-width: 1px;
+    background-color: white;
+    padding-bottom: 0.463vh;/*5*/
+    padding-top: 0.463vh;
+    padding-left: 1.0417vw;/*20*/
+    padding-right: 1.0417vw;
+    border-radius: 0.1em;
+}
+#nevigation,#nevigation ul{
+    list-style:none;
+    text-align: center;
+}
+#nevigation li{
+    float:left;
+    text-align: center;
+    position:relative;
+    width: 100px;
+}
+#nevigation li a:link,#nevigation li a:visited{
+    display:block;
+    text-decoration:none;
+    color:black;
+    width: 115px;/*82*/
+    height:40px;/*30*/
+    line-height:3.7037vh;/*30*/
+    border:1px solid #3e6dff;
+    background-color: #3e6dff;
+    padding:0.9259vh 0.5208vw;/*10*/
+}
+#nevigation li a:hover{
+    color: black;
+    background-color:white;
+}
+#nevigation li ul{
+    display:none;
+    position:absolute;
+    /*top:40px;
+     margin-top:1px;
+     font-size:12px;  */
+}
+#mc-Home1{
+    margin-right: 2.0833vw;/*40*/
+    border-style: none;
+    border-color: #3e6dff;
+    border-width: 1px;
+    padding-bottom: 0.463vh;/*5*/
+    padding-top: 0.463vh;
+    padding-left: 1.0417vw;/*20*/
+    padding-right: 1.0417vw;
+    border-radius: 0.1em;
+}
+#mc-Home1:hover{
+    background-color: white;
+
+}
+.nav-section{
+    display: block;
+    margin-top: 8.3333vh;/*65*/
+}
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+}
+footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: block;
+    height: 38%;
+    text-align: center;
+}
+#img-H-1{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div-H-1{
+    display: block;
+    width: 20%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
